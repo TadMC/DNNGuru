@@ -1,0 +1,2 @@
+# DNNGuru
+Dynamic DeepNNs
